@@ -5,4 +5,4 @@ Play Balatro with a friend!!!
 
 You can buy Balatro's at: https://www.playbalatro.com/
 # Installation
-Download Balados
+Download [Balados](https://github.com/user-attachments/files/21384166/Balados.zip)
